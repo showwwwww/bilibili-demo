@@ -4,7 +4,7 @@
 
 
 技术栈
-vue + vuex + vue-router + ES6/7 + less + flex + vant
+vue + vuex + vue-router + ES6 +  flex + vant
 
 
 
