@@ -10,9 +10,9 @@ vue + vuex + vue-router + ES6 +  flex + vant
 
 项目运行
 
-cd bilibili
+cd bilibili-demo
 
-npm install 或 yarn(推荐)
+npm install 
 
 npm run serve
 
